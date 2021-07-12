@@ -1,0 +1,30 @@
+---
+title: "ISSS608 Assignment 1"
+description: |
+  A short description of the post.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 07-11-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#VAST Challenge 2
+
+
+# Tasks
+Conducting literature review on how the analysis were performed before. The focus should be on identifying gaps whereby interactive visual analytics approach can be used to enhance user experience on using the analysis techniques.
+Extracting, wrangling and preparing the input data required to perform the analysis. The focus should be on exploring appropriate tidyverse methods
+Using appropriate visually driven data analysis techniques to answer the questions asked.
+
+#Content
+
+Conducting literature review on how the analysis were performed before. The focus should be on identifying gaps whereby interactive visual analytics approach can be used to enhance user experience on using the analysis techniques.
+
